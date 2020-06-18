@@ -1,0 +1,13 @@
+[
+  {     "mEnglish": "beautiful",
+    "mPartOfSpeech": "adj.",
+    "mChinese": "美丽的",
+    "mExample": "a beautiful woman",
+    "mImgID": "beautiful"   },
+  {"mEnglish":"chat",
+    "mPartOfSpeech": "adj.",
+    "mChinese":"谈话",
+    "mExample":"What were you chatting about?",
+    "mImgID":"chat"
+  }
+]

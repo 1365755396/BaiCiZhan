@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="注册">注册</string>
+    <string name="登录">登录</string>
+    <string name="确定">确定</string>
+    <string name="账号">账号：</string>
+    <string name="密码">密码：</string>
+    <string name="用户名">用户名（手机号码）</string>
+    <string name="mima">密码</string>
+    <string name="输入账号">输入账号：</string>
+    <string name="手机号码">手机号码</string>
+    <string name="title_activity_zhuye">zhuyeActivity</string>
+    //生成字符串在页面显示
+    <string name="title_home">主页</string>
+    <string name="title_voclib">词汇</string>
+    <string name="title_discover">发现</string>
+    <string name="title_mine">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"></string>
+    //
+</resources>
